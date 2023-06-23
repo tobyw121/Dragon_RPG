@@ -3,5 +3,3 @@
 --> I will upload here currently only C++ code for certain game mechanics, animations and characters will follow, helpers are welcome :) <--- 
 
 I will program it with the Unity Engine 2021 LTS
-
-Translated with www.DeepL.com/Translator (free version)
