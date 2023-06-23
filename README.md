@@ -3,3 +3,8 @@
 --> I will upload here currently only C++ code for certain game mechanics, animations and characters will follow, helpers are welcome :) <--- 
 
 I will program it with the Unity Engine 2021 LTS
+
+--> I will use the following assets:
+
+https://mirror-networking.com/ 
+
