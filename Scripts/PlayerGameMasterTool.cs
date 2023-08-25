@@ -202,6 +202,7 @@ public class PlayerGameMasterTool : NetworkBehaviour
         Debug.Log($"GM started event: {eventName}");
     }
 
+    [Command]
     public void CmdPromoteToGM(string playerName)
     {
         // validate: only for GMs
